@@ -1,6 +1,4 @@
 this script contains the deployment script...
 Hello.. update this line..
-hi..
-everyone
 Hello....
 Update again
